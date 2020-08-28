@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="guess">A</string>
+    <string name="exit">b</string>
+    <string name="hint">c</string>
+    <string name="title">d</string>
+</resources>
